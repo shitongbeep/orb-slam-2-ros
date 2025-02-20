@@ -1,0 +1,4 @@
+.vscode/*
+log/*
+!/log/0
+*/**/lib/*
